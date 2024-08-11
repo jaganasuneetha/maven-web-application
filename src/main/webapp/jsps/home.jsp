@@ -10,9 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Uptime Career. Maharasthra,India</h1>
-<h1 align="center"> In Uptime Career Learning Devops with Real Time scnerios</h1>
-<h2 align="center"> Real Time scnerio-1</h2>
-<h3 align="center"> Suneetha</h3>
+<h2 align="center"> Suneetha</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
